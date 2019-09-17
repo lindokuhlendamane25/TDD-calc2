@@ -14,7 +14,7 @@ class Calculator{
    }
 
 
-   //muiltiply numbers
+   //multiply numbers
    multiplyNum(){
        var product = 1;
        for(let i = 0; i<arguments.length; i++){
